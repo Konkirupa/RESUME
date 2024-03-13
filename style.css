@@ -1,0 +1,29 @@
+.section {
+    margin-top: 10px;
+    background-color: blueviolet;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    margin-top: 10px;
+    border: 10px;
+    
+}
+.heading {
+    margin-left: 500px;
+   
+}
+.sublines {
+    color: rgb(10, 124, 119);
+}
+.section1 {
+  margin: 30px;
+  padding:20px;
+  background-color: #fff;
+  box-shadow: 0 0 20px rgba(0,0,0,0.1);
+  border-radius: 8px;
+   
+}
+.body {
+    margin-left: 100px;
+    margin-right: 50px;
+}
